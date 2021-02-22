@@ -1,0 +1,17 @@
+body{
+background:linear-gradient(purple,blue,deeppink)    
+    
+}
+.menu{
+  color:cyan;
+    font-size:23;
+    font-family: cursive;
+    text-align:center;
+}
+h1 {
+    color:cyan;
+    font-family: cursive;
+}
+h2 {
+    
+}
